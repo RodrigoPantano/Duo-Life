@@ -1,0 +1,10 @@
+sm:  <-- tamaño para manejar el responsive
+#242424  <-- color del fondo general
+rgba(255, 255, 255, 0.87) <-- color de las letras
+#848afc  <-- color de los detalles 
+400  <-- tamaño fuente general 
+text-xl  <-- tamaño fuente de la version cel
+text-3xl   <-- tamaño fuente de la version web
+m-8   <-- margen que normalmente uso
+p-6   <-- para el padding de los cuadrados con info
+mt-16 <-- margen de top
